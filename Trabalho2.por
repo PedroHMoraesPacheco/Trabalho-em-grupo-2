@@ -1,6 +1,6 @@
 programa
 {
-	
+	//tyhfthyfghfhftgytfgf
 	funcao inicio(){
 		inteiro vagas[30], valor, menu, sn=1
 		faca{
@@ -77,7 +77,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 261; 
+ * @POSICAO-CURSOR = 34; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
